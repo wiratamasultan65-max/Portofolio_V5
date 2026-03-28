@@ -209,7 +209,7 @@ const AboutPage = () => {
                 data-aos-duration="1300"
                 itemProp="name"
               >
-                Eki Zulfar Rachman
+                Sultan Kaliga Wira Tama
               </span>
             </h2>
             
@@ -218,7 +218,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-        Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan Front-End. 
+        Saya adalah mahasiswa Teknologi Informasi yang berfokus pada pengembangan Front-End, Web Eksploitation, Forensic, dan Keamanan Siber. Dengan pengalaman lebih dari 2 tahun, saya telah mengerjakan berbagai proyek yang mencakup pembuatan website, aplikasi web, dan eksploitasi keamanan. Saya memiliki keahlian dalam HTML, CSS, JavaScript, React.js, serta pemahaman mendalam tentang keamanan siber dan teknik eksploitasi. 
 Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
                   </p>
 
